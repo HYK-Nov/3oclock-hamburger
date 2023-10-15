@@ -4,9 +4,8 @@
 name: Discord bot push message
 
 on:
-  workflow_dispatch:
   schedule: # UTC+9 기준 3시 실행
-    - cron:  '*/2 * * * *'
+    - cron:  "* 6 * * *"
 
 env:
   TZ: Asia/Seoul
