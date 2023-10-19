@@ -1,4 +1,4 @@
-# 3oclock-hamburger
+# 3oclock-hamburger-webhook
 
 [![Discord bot push message](https://github.com/HYK-Nov/3oclock-hamburger-webhook/actions/workflows/auto-push-message.yml/badge.svg)](https://github.com/HYK-Nov/3oclock-hamburger-webhook/actions/workflows/auto-push-message.yml)
 
